@@ -1,6 +1,10 @@
 # pythonsshattack
 Brute force SSH credentials with python
 
+Disclaimer
+
+This programme is intended for education purposes only. I do not take any responsibility on how you use this programme.
+
 Installation
 
 Before using the programme please install paramiko
