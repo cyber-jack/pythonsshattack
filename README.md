@@ -10,4 +10,4 @@ apt-get install python-paramiko
 
 Usage
 
-sshpwfinder.py [user] [target] [dictionary] [port](optional) [threads](optional, default=9) Example: sshpwfinder.py root 192.168.1.123 passlist.txt
+sshpwfinder.py [user] [target] [dictionary] [port] (optional) [threads](optional, default=9) Example: sshpwfinder.py root 192.168.1.123 passlist.txt
